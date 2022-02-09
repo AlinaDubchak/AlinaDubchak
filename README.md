@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI FICT</code>
-<code>🎪 Group: IM-113</code>
+<code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
