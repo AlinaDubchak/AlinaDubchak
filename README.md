@@ -2,7 +2,7 @@
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Frontend</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](PROJECT.md)</code><br>
+<code>🧻 Current [https://github.com/AlinaDubchak/Project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@alya_lisha](https://telegram.me/your-nikname)</code>
