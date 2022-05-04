@@ -6,4 +6,4 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@alya_lisha](https://telegram.me/alya_lisha)</code>
-<code>📫 [alina.dubchak.ev@gmail.com](mailto:your-email)</code>
+<code>📫 [alina.dubchak.ev@gmail.com](mailto:alina.dubchak.ev@gmail.com)</code>
