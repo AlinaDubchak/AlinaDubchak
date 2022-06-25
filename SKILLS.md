@@ -23,11 +23,11 @@
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟩 return early      |
-| 🟨 generator         | 🟩 switch             | 🟩 memoize            | ⬜️ Symbol           | 🟩 linter            |
+| 🟨 generator         | 🟩 switch             | 🟩 memoize            | 🟩 Symbol           | 🟩 linter            |
 | 🟨 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟦 pool               | 🟩 timers           | 🟩 unittest          |
 | 🟩 Array             |                       | 🟦 wrapper            | 🟩 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟩 default parameters | 🟨 RegExp           | 🟩 github            |
+| 🟩 instanceof        |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       | 🟩 lambda             | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
@@ -37,8 +37,8 @@
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
 | 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
-| 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
-| 🟩 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
+| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     |                          |
+| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   |                          |
 | 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
 | 🟩 Functional programming      | 🟦 Async method       | 🟩 Linked list       |                          |
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
