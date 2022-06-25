@@ -48,7 +48,7 @@
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
-| 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
+| 🟩 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
