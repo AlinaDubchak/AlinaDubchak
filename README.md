@@ -5,7 +5,7 @@
 
 <code>🎓 Student: KPI FICT</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Frontend</code>
+<code>👷 Speciality: Web-designer and Typesetter</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/AlinaDubchak/PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
