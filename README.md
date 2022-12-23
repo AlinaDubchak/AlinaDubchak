@@ -8,7 +8,7 @@
 <code>👷 Speciality: Web-designer and Typesetter</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/AlinaDubchak/PROJECT.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript</code>
+<code>🧑‍💻 Languages: JavaScript, C++, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@alya_lisha](https://telegram.me/alya_lisha)</code>
 <code>📫 [alina.dubchak.ev@gmail.com](mailto:alina.dubchak.ev@gmail.com)</code>
