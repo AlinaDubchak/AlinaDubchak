@@ -58,6 +58,38 @@
 |                                | ⬜ Reflection         |                      |                          |                          |
 |                                | 🟩 template class         |                      |                      |                     |
 
+                     |                   |                  |                      |
+
+## Frontend
+
+| Vue.js               |
+|----------------------|
+| ⬜ App          |
+| ⬜ methods V-ON       | 
+| ⬜ Interpolation         | 
+| ⬜ Vue devtools        |
+| ⬜ Directive V-FOR         | 
+| ⬜ Two-way binding          | 
+| ⬜ Stop, prevent        | 
+| ⬜ Props              | 
+| ⬜ V-MODEL            | 
+| ⬜ Emit   | 
+| ⬜ UI library         | 
+| ⬜ KEY           | 
+| ⬜ Axios     | 
+| ⬜ Dropdown list     | 
+| ⬜ Sorting            | 
+| ⬜ Wantch and computed             | 
+| ⬜ Transition group             | 
+| ⬜ Filtration            | 
+| ⬜ Pagination             | 
+| ⬜ Refs             | 
+| ⬜ Vue Router             | 
+| ⬜ V-  Intersation            | 
+| ⬜ Mixins            | 
+| ⬜ Vuex             | 
+| ⬜ Composition API             | 
+
 ## Asynchronous programming
 
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
@@ -109,36 +141,5 @@
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
-| 🟦 worker_threads    |                              |                   |                  |                      |
-
-## Frontend
-
-| Vue.js               |
-|----------------------|
-| ⬜ App          |
-| ⬜ methods V-ON       | 
-| ⬜ Interpolation         | 
-| ⬜ Vue devtools        |
-| ⬜ Directive V-FOR         | 
-| ⬜ Two-way binding          | 
-| ⬜ Stop, prevent        | 
-| ⬜ Props              | 
-| ⬜ V-MODEL            | 
-| ⬜ Emit   | 
-| ⬜ UI library         | 
-| ⬜ KEY           | 
-| ⬜ Axios     | 
-| ⬜ Dropdown list     | 
-| ⬜ Sorting            | 
-| ⬜ Wantch and computed             | 
-| ⬜ Transition group             | 
-| ⬜ Filtration            | 
-| ⬜ Pagination             | 
-| ⬜ Refs             | 
-| ⬜ Vue Router             | 
-| ⬜ V-  Intersation            | 
-| ⬜ Mixins            | 
-| ⬜ Vuex             | 
-| ⬜ Composition API             | 
-
+| 🟦 worker_threads    |         
 
