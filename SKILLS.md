@@ -34,28 +34,29 @@
 
 ## Multi-paradigm programming
 
-| Theory                         | OOP basics            | Abstractions         | Patterns                 |
-|--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton             |
-| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     |                          |
-| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   |                          |
-| 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
-| 🟩 Functional programming      | 🟦 Async method       | 🟩 Linked list       |                          |
-| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
-| 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     |                          |
-| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
-| 🟦 Generic programming         | 🟩 Field declarations | 🟦 Trees             |                          |
-| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
-| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
-| 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
-| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
-| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
-| 🟩 Multi-paradigm programming  | 🟩 Object form        |                      |                          |
-| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
-| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
-|                                | ⬜ Reflection         |                      |                          |
+| Theory                         | OOP basics            | Abstractions         | Patterns                 |OOP principle                    |
+|--------------------------------|-----------------------|----------------------|--------------------------|-----------------------          |
+| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton           | 🟩 single responsibility        |
+| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | 🟩 Factory             | 🟩 open/closed                  |
+| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   | 🟩 Abstract Factory    | 🟩 Liskov substitution          |
+| 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              | 🟩 Facade              | 🟩 Interface segregation        |
+| 🟩 Functional programming      | 🟦 Async method       | 🟩 Linked list       | 🟩 Dependency injection| 🟩 dependency inversion         |
+| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       | 🟩 Bridge              |                                  |
+| 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     | 🟩 Adapter             |                                  |
+| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     | 🟩 Decorator           |                                   |
+| 🟩 Generic programming         | 🟩 Field declarations | 🟦 Trees             | 🟩 Observer            |                                   |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            | 🟩 Visitor              |                                   |
+| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |                                   |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |                                  |
+| 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |                                   |
+| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |                                   |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |                                   |
+| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |                                   |
+| 🟩 Multi-paradigm programming  | 🟩 Object form        |                      |                          |                                   |
+| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |                                   |
+| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |                                   |
+|                                | ⬜ Reflection         |                      |                          |                                   |
+|                                | 🟩 template class         |                      |                      |                                   |
 
 ## Asynchronous programming
 
@@ -73,10 +74,10 @@
 | 🟩 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
 | ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
 | ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | ⬜ Thread Pool           |
-| 🟦 Asynchronous Queue  | 🟦 Callback hell               | 🟦 Race conditions  | 🟦 callbackify           |
+| 🟦 Asynchronous Queue  | 🟩 Callback hell               | 🟦 Race conditions  | 🟦 callbackify           |
 | ⬜ Future              | 🟦 Promise hell                | 🟦 Dead locks       | 🟦 promisify             |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
-| 🟦 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
+| 🟩 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
 | ⬜ Async Collector     |                                |                     | ⬜ Revealing Constructor |
 | ⬜ Coroutine           |                                |                     |                          |
 | ⬜ Goroutine           |                                |                     |                          |
@@ -85,10 +86,10 @@
 
 | Internals            | Theory                       | Network           | Technique        | Problems             |
 |----------------------|------------------------------|-------------------|------------------|----------------------|
-| 🟦 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟦 HTTP(S)        | 🟦 Logging       | 🟦 Memory leaks      |
-| 🟦 Event Loop        | 🟦 CPU bound tasks           | 🟦 TCP/SSL        | 🟦 Testing       | 🟦 Resource leaks    |
-| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟦 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
-| 🟦 ECMA modules      | 🟦 Multilayer approach       | 🟦 TLS            | 🟦 Readable      | 🟦 Data race         |
+| 🟦 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟦 Logging       | 🟦 Memory leaks      |
+| 🟦 Event Loop        | 🟦 CPU bound tasks           | 🟩 TCP/SSL        | 🟦 Testing       | 🟦 Resource leaks    |
+| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟩 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
+| 🟦 ECMA modules      | 🟦 Multilayer approach       | 🟩 TLS            | 🟦 Readable      | 🟦 Data race         |
 | 🟦 Network API       | 🟦 Separation of concerns    | 🟦 Websocket      | 🟦 Writable      | 🟦 Graceful Shutdown |
 | ⬜ Addons            | 🟦 Inversion of control      | ⬜ SSE            | 🟦 Transform     | 🟦 Dependencies      |
 | ⬜ N-API             | 🟦 Dependency injection      | ⬜ HTTP/3 (QUIC)  | ⬜ back pressure |                      |
