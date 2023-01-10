@@ -18,7 +18,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- <br>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@alya_lisha](https://telegram.me/alya_lisha)</code>
 <code>📫 [alina.dubchak.ev@gmail.com](mailto:alina.dubchak.ev@gmail.com)</code>
