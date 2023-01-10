@@ -36,27 +36,27 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |OOP principle                    |
 |--------------------------------|-----------------------|----------------------|--------------------------|-----------------------          |
-| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton           | 🟩 single responsibility        |
-| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | 🟩 Factory             | 🟩 open/closed                  |
-| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   | 🟩 Abstract Factory    | 🟩 Liskov substitution          |
-| 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              | 🟩 Facade              | 🟩 Interface segregation        |
-| 🟩 Functional programming      | 🟦 Async method       | 🟩 Linked list       | 🟩 Dependency injection| 🟩 dependency inversion         |
-| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       | 🟩 Bridge              |                                  |
-| 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     | 🟩 Adapter             |                                  |
-| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     | 🟩 Decorator           |                                   |
-| 🟩 Generic programming         | 🟩 Field declarations | 🟦 Trees             | 🟩 Observer            |                                   |
-| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            | 🟩 Visitor              |                                   |
-| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |                                   |
-| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |                                  |
-| 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |                                   |
-| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |                                   |
-| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |                                   |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |                                   |
-| 🟩 Multi-paradigm programming  | 🟩 Object form        |                      |                          |                                   |
-| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |                                   |
-| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |                                   |
-|                                | ⬜ Reflection         |                      |                          |                                   |
-|                                | 🟩 template class         |                      |                      |                                   |
+| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton           | 🟩 single responsibility  |
+| 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | 🟩 Factory             | 🟩 open/closed             |
+| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   | 🟩 Abstract Factory    | 🟩 Liskov substitution  |
+| 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              | 🟩 Facade              | 🟩 Interface segregation    |
+| 🟩 Functional programming      | 🟦 Async method       | 🟩 Linked list       | 🟩 Dependency injection| 🟩 dependency inversion      |
+| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       | 🟩 Bridge              |                    |
+| 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     | 🟩 Adapter             |                         |
+| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     | 🟩 Decorator           |                        |
+| 🟩 Generic programming         | 🟩 Field declarations | 🟦 Trees             | 🟩 Observer            |                             |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            | 🟩 Visitor              |                          |
+| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |                         |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |                       |
+| 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |                          |
+| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |                           |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |                            |
+| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |                       |
+| 🟩 Multi-paradigm programming  | 🟩 Object form        |                      |                          |                            |
+| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |                          |
+| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |                           |
+|                                | ⬜ Reflection         |                      |                          |                          |
+|                                | 🟩 template class         |                      |                      |                     |
 
 ## Asynchronous programming
 
