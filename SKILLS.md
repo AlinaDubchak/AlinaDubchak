@@ -103,11 +103,42 @@
 | 🟦 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
-| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
+| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
+
+## Frontend
+
+| Vue.js               |
+|----------------------|
+| ⬜ App          |
+| ⬜ methods V-ON       | 
+| ⬜ Interpolation         | 
+| ⬜ Vue devtools        |
+| ⬜ Directive V-FOR         | 
+| ⬜ Two-way binding          | 
+| ⬜ Stop, prevent        | 
+| ⬜ Props              | 
+| ⬜ V-MODEL            | 
+| ⬜ Emit   | 
+| ⬜ UI library         | 
+| ⬜ KEY           | 
+| ⬜ Axios     | 
+| ⬜ Dropdown list     | 
+| ⬜ Sorting            | 
+| ⬜ Wantch and computed             | 
+| ⬜ Transition group             | 
+| ⬜ Filtration            | 
+| ⬜ Pagination             | 
+| ⬜ Refs             | 
+| ⬜ Vue Router             | 
+| ⬜ V-  Intersation            | 
+| ⬜ Mixins            | 
+| ⬜ Vuex             | 
+| ⬜ Composition API             | 
+
 
