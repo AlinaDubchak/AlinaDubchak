@@ -18,15 +18,15 @@
 | 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟩 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟩 partial            | 🟩 mixin, extend    | 🟩 silver bullet     |
 | 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟨 iterator         | 🟩 not invented here |
-| 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays     | 🟩 dead code         |
+| 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟩 return early      |
+| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | 🟩 Proxy            | 🟩 return early      |
 | 🟩 generator         | 🟩 switch             | 🟩 memoize            | 🟩 Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | 🟩 prettier          |
-| 🟩 call, bind, apply |                       | 🟦 pool               | 🟩 timers           | 🟩 unittest          |
-| 🟩 Array             |                       | 🟦 wrapper            | 🟩 EventEmitter     | 🟩 git               |
+| 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟩 string parsing   | 🟩 prettier          |
+| 🟩 call, bind, apply |                       | 🟩 pool               | 🟩 timers           | 🟩 unittest          |
+| 🟩 Array             |                       | 🟩 wrapper            | 🟩 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       | 🟩 lambda             | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
@@ -64,31 +64,30 @@
 
 | Vue.js               |
 |----------------------|
-| ⬜ App          |
-| ⬜ methods V-ON       | 
-| ⬜ Interpolation         | 
-| ⬜ Vue devtools        |
-| ⬜ Directive V-FOR         | 
-| ⬜ Two-way binding          | 
-| ⬜ Stop, prevent        | 
-| ⬜ Props              | 
-| ⬜ V-MODEL            | 
-| ⬜ Emit   | 
-| ⬜ UI library         | 
-| ⬜ KEY           | 
-| ⬜ Axios     | 
-| ⬜ Dropdown list     | 
-| ⬜ Sorting            | 
-| ⬜ Wantch and computed             | 
-| ⬜ Transition group             | 
-| ⬜ Filtration            | 
-| ⬜ Pagination             | 
+| 🟩 App          |
+| 🟩 methods V-ON       | 
+| 🟩 Interpolation         | 
+| 🟩 Vue devtools        |
+| 🟩 Directive V-FOR         | 
+| 🟩 Two-way binding          | 
+| 🟩 Stop, prevent        | 
+| 🟩 Props              | 
+| 🟩 V-MODEL            | 
+| 🟩 Emit   | 
+| 🟩 KEY           | 
+| 🟩 Axios     | 
+| 🟩 Dropdown list     | 
+| 🟩 Sorting            | 
+| 🟩 Wantch and computed             | 
+| 🟩 Transition group             | 
+| 🟩 Filtration            | 
+| 🟩 Pagination             | 
 | ⬜ Refs             | 
-| ⬜ Vue Router             | 
-| ⬜ V-  Intersation            | 
+| 🟩 Vue Router             | 
+| 🟩 V-Intersation            | 
 | ⬜ Mixins            | 
 | ⬜ Vuex             | 
-| ⬜ Composition API             | 
+| 🟩 Composition API             | 
 
 ## Asynchronous programming
 
