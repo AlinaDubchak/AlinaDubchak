@@ -58,7 +58,6 @@
 |                                | ⬜ Reflection         |                      |                          |                          |
 |                                | 🟩 template class         |                      |                      |                     |
 
-                     |                   |                  |                      |
 
 ## Frontend
 
