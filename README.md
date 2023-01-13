@@ -5,7 +5,7 @@
 
 <code>🎓 Student: KPI FICT</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Web-designer and Typesetter</code>
+<code>👷 Speciality: Web-designer and Frontend</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/AlinaDubchak/OOP-Labs/tree/main/Program%20for%20processing%20raster%20images)</code><br>
   
