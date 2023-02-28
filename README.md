@@ -23,7 +23,7 @@
 
 </center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&layout=compact)](https://https://github.com/AlinaDubchak/AlinaDubchak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&layout=compact)](https://github.com/AlinaDubchak/AlinaDubchak)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlinaDubchak&theme=solarized_dark)
 
