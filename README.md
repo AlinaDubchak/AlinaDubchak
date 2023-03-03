@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&langs_count=8)](https://github.com/AlinaDubchak/AlinaDubchak)
 
-![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaDubchak&show_icons=true&theme=tokyonight)
+[![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaDubchak&theme=tokyonight)](https://github.com/AlinaDubchak/AlinaDubchak)
