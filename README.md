@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-AlinaDubchak&color=blue)
 <h1 align="center">Hi, welcome to my profile!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -23,6 +24,6 @@
 
 </center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&langs_count=8)](https://github.com/AlinaDubchak/AlinaDubchak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&langs_count=10&theme=tokyonight)](https://github.com/AlinaDubchak/AlinaDubchak)
 
 [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaDubchak&theme=tokyonight)](https://github.com/AlinaDubchak/AlinaDubchak)
