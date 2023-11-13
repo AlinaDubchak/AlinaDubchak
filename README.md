@@ -6,9 +6,9 @@
 
 <code>🎓 Student: KPI FICT</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Web-designer and Frontend</code>
+<code>👷 Speciality: Web-designer & Frontend</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](https://github.com/AlinaDubchak/OOP-Labs/tree/main/Program%20for%20processing%20raster%20images)</code><br>
+<code>🧻 Current [project](https://github.com/AlinaDubchak/Lending_Node_frontend)</code><br>
   
 ## 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
