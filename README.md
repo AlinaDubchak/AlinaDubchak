@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-AlinaDubchak&color=blue)
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-366 / 668 / 730-009933?style=flat-square"></a>
+
 <h1 align="center">Hi, welcome to my profile!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -25,5 +27,6 @@
 </center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaDubchak&langs_count=10&theme=tokyonight)](https://github.com/AlinaDubchak/AlinaDubchak)
+
 
 [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaDubchak&theme=tokyonight)](https://github.com/AlinaDubchak/AlinaDubchak)
