@@ -8,7 +8,7 @@
 
 <code>🎓 Student: KPI FICT</code>
 <code>🎪 Group: IM-13</code>
-<code>👷 Speciality: Web-designer & Frontend</code>
+<code>👷 Speciality: Software Engeneering</code>
 <code>💡 [Skills](https://github.com/AlinaDubchak/SelfAssessment)</code>
 <code>🧻 Current [project]()</code><br>
   
